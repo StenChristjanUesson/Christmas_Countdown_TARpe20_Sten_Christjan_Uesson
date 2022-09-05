@@ -1,5 +1,5 @@
 const countdown = document.querySelector('.countdown');
-const targetDate = new Date('Dec 24, 2021, 00:00:01').getTime();
+const targetDate = new Date('Dec 24, 2022, 00:00:01').getTime();
 // milliseconds since Jan 1, 1970, 00:00:00.000 GMT
 
 const interval = setInterval(() => {
